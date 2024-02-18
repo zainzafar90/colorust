@@ -17,3 +17,7 @@ Then build the wasm pkg for it using command
 Run the nodejs app to test it out
 
 > node app.js
+
+## Demo
+
+![DEMO](./demo.png){width:50%}
