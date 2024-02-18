@@ -21,3 +21,7 @@ Run the nodejs app to test it out
 ## Demo
 
 ![DEMO](./demo.png){width:50%}
+
+## Credits
+
+This library is merely a RUST implementation of (https://github.com/alexeyraspopov/picocolors) and not written from scratch
